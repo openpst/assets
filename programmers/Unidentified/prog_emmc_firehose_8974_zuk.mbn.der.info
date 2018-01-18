@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 38758 (0x9766)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, ST = BJ, L = BEIJING, O = FancyMaker, OU = General AttestationCA, CN = FancyMaker Attestation CA
+        Validity
+            Not Before: Aug  6 03:23:33 2015 GMT
+            Not After : Aug  1 03:23:33 2035 GMT
+        Subject: C = US, CN = Qualcomm, L = San Diego, O = ASIC, ST = California, OU = 04 0000 OEM_ID, OU = 05 000148A0 SW_SIZE, OU = 06 0000 MODEL_ID, OU = 07 0001 SHA256, OU = 01 0000000000000003 SW_ID, OU = 02 007B40E100000000 HW_ID, OU = 03 0000000000000002 DEBUG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ed:38:bd:12:e5:70:31:71:98:80:60:ba:30:e9:
+                    21:1c:82:51:39:e5:7d:de:86:44:bd:4c:10:62:ce:
+                    1c:80:0f:2b:ff:6e:96:44:18:6b:bd:a1:e4:2b:69:
+                    1d:fd:51:b8:f4:0e:06:2d:30:ec:32:c0:f8:f2:62:
+                    a7:50:e3:13:64:30:36:57:ef:8f:a6:26:88:29:83:
+                    0a:e2:dd:e1:ed:a9:20:b8:3a:57:84:03:27:5c:b9:
+                    1d:ce:eb:ec:59:07:f5:8e:36:4b:92:10:21:da:77:
+                    70:d7:2f:d6:45:40:90:3a:e7:0f:89:f0:cd:f5:98:
+                    89:db:a4:93:ff:bb:ab:07:8b:24:65:be:ad:68:22:
+                    64:dc:ee:52:f7:df:7f:ff:e7:ac:f6:bd:6c:42:77:
+                    2b:63:2c:f5:3e:e7:59:29:d1:51:d9:66:80:2f:3e:
+                    b0:bf:29:19:ba:fb:57:bf:8d:ec:f5:b4:b0:35:6a:
+                    19:5c:e2:19:da:b0:7c:70:f9:e9:de:d0:dc:d5:d3:
+                    f5:ce:1d:78:52:7b:c7:0c:d8:b9:6c:53:38:e0:23:
+                    77:12:b4:09:58:73:c9:5e:70:5b:07:b2:16:0e:d2:
+                    c1:3a:4a:6a:51:57:e0:c8:ab:d5:63:42:d3:8d:6e:
+                    84:cb:02:68:e0:68:b3:dd:04:11:a0:40:1e:22:80:
+                    6c:a5
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.qdst.com/crls/qctdevattest.crl
+
+            X509v3 Authority Key Identifier: 
+                keyid:E6:5C:DF:CB:E0:98:73:A1:C8:DE:8E:D3:C0:D6:8F:E5:D0:01:3A:0B
+
+            X509v3 Basic Constraints: 
+                CA:FALSE, pathlen:0
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         4e:51:85:31:6e:9c:89:d7:0d:5b:55:a6:64:fd:52:eb:1d:e1:
+         28:ba:06:76:4f:56:35:a8:ba:ca:a6:08:6d:28:7b:da:c4:25:
+         1f:e0:42:ba:25:3c:25:00:5a:3b:3f:ce:ba:a0:44:5c:7c:7b:
+         24:ec:59:b3:2d:10:5a:20:b7:b5:5a:b2:b2:ea:f8:ea:c7:db:
+         d7:b9:29:36:5e:f3:e3:4e:b1:87:6d:5f:62:dc:38:51:e1:6e:
+         83:69:5d:54:32:d6:b7:98:a2:e0:f5:f8:71:68:98:4b:ba:fb:
+         19:c1:91:9a:94:26:a9:42:98:f1:1e:77:bb:4c:e5:fc:a1:c0:
+         1b:66:93:20:12:bd:33:68:be:fb:da:ec:46:b9:93:b4:80:65:
+         50:9c:95:46:c0:d4:41:9b:29:8a:29:82:d9:94:43:06:ff:7a:
+         a3:6b:73:59:e6:c7:67:a7:d9:b1:e6:a9:1c:92:2c:fb:5a:e5:
+         92:19:15:af:01:e8:f0:5c:02:e6:be:d9:22:e2:50:f3:ad:1e:
+         2c:87:7b:bf:c8:47:57:6a:14:3f:7c:e3:ba:5c:c2:6e:5a:5b:
+         ed:ec:ac:01:0a:19:1b:3c:bf:06:49:ff:ae:a6:6d:ac:78:12:
+         10:63:f0:1c:e6:31:48:07:ed:c5:93:ee:a7:2d:1d:bb:e4:6f:
+         da:e7:05:e3

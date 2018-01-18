@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, ST = XM, L = XIAMEN, O = LENOVO, OU = General lenovo attestation ca, CN = LENOVO attestation CA
+        Validity
+            Not Before: Mar  1 10:52:52 2016 GMT
+            Not After : Feb 25 10:52:52 2036 GMT
+        Subject: C = CN, CN = LENOVO ROOT CA, L = XIAMEN, O = LENOVO, ST = XM, OU = 01 0000000000000003 SW_ID, OU = 02 009690E100000000 HW_ID, OU = 04 0000 OEM_ID, OU = 05 000613A8 SW_SIZE, OU = 06 0000 MODEL_ID, OU = 07 0001 SHA256, OU = 03 0000000000000002 DEBUG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dd:e5:85:46:0f:c0:2d:e4:13:5a:60:7f:e4:45:
+                    f6:75:a1:9c:91:03:da:fb:bd:6a:e9:3f:46:8b:a0:
+                    5c:6a:1c:e1:1f:ea:42:08:7f:1b:e5:0e:11:e1:0a:
+                    b3:0f:32:8c:12:ae:8b:c2:60:a2:4a:75:00:8c:b5:
+                    95:77:e6:b3:7e:02:1d:a1:3c:bb:9e:23:8e:41:5f:
+                    2a:8c:bb:02:d5:41:4e:53:96:a1:df:93:2d:43:69:
+                    0d:76:ad:fb:62:14:dc:b0:a4:b1:6f:67:3b:8d:a2:
+                    54:61:29:16:bc:13:b6:eb:d9:a7:2b:07:15:20:2a:
+                    0f:25:31:d9:08:2e:6a:96:aa:cd:fc:d7:5a:06:03:
+                    21:51:9a:54:54:a3:95:bf:ab:64:e7:f8:1f:a1:b5:
+                    43:ef:94:42:65:1b:54:70:17:4d:fe:cd:66:be:54:
+                    e3:20:c6:c0:61:3a:41:32:a8:32:f4:e3:10:37:a8:
+                    67:b0:bb:40:a0:3f:91:0f:8d:90:a0:9f:71:75:d2:
+                    53:26:71:ea:ce:3a:46:7b:9e:0a:8a:cb:a2:2f:1b:
+                    ef:69:f5:ff:a3:8a:6d:c6:d0:b4:b8:1f:21:9f:e5:
+                    bf:88:7e:62:f8:e8:d2:31:67:67:41:2d:c6:f3:37:
+                    70:cc:d6:0b:5e:fe:d6:d9:41:22:19:6c:7c:a5:b3:
+                    d3:8f
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.qdst.com/crls/qctdevattest.crl
+
+            X509v3 Authority Key Identifier: 
+                keyid:32:FA:8D:E8:E2:AA:B4:C6:B9:EC:D3:09:B7:8A:DB:10:DE:42:DC:A5
+
+            X509v3 Basic Constraints: 
+                CA:FALSE, pathlen:0
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         b8:1f:2b:30:06:6f:14:1e:5a:29:fb:f9:5a:1f:fc:48:fd:39:
+         61:f2:9b:7f:58:cc:2f:5b:e8:08:9a:4b:ad:3f:ac:9e:36:fd:
+         35:3b:ae:21:66:e3:d6:5c:f1:9c:b1:f6:d5:a5:b4:c9:4d:b7:
+         8f:16:a7:4b:98:76:02:33:dd:02:4d:fb:9a:ad:7c:07:2f:2a:
+         f6:4b:d3:8a:21:41:8d:23:25:4e:4c:10:33:89:80:b5:1d:d1:
+         29:cd:fa:db:5e:3c:c9:1d:e7:b3:83:54:62:71:90:b9:1a:32:
+         f9:c8:23:46:d5:c1:6c:82:90:c3:b2:28:7d:88:22:e6:18:ce:
+         7c:b9:27:8c:be:c1:de:c9:ca:39:30:24:c5:f1:99:33:6d:72:
+         c6:f7:d6:11:a9:21:8f:c9:0a:78:4f:ab:ca:ca:9f:59:c5:9f:
+         30:cb:85:32:09:c4:6c:87:22:88:66:26:42:ce:d0:fa:aa:0b:
+         b7:15:cd:c2:02:bc:c6:a8:cd:21:99:94:d9:b8:f8:43:5a:b2:
+         9d:47:5c:07:7d:48:fb:cb:0f:66:6a:00:f5:80:9a:32:2a:0d:
+         3d:19:79:1f:d1:5b:ea:21:05:41:90:dd:2e:ba:40:d5:e4:47:
+         57:1a:04:48:1a:6d:39:10:59:50:bf:7b:c0:2f:00:2e:c0:63:
+         23:19:e7:52

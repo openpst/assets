@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 334758 (0x51ba6)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = LGE attestation CA, OU = General LGE attestation CA, O = LGE, L = GEUMCHEON, ST = SEOUL, C = KR
+        Validity
+            Not Before: Aug 21 06:19:20 2015 GMT
+            Not After : Aug 17 06:19:20 2035 GMT
+        Subject: CN = yeonseok.kang, OU = General LGE attestation, O = LGE, L = GEUMCHEON, ST = SEOUL, C = KR, OU = 07 0001 SHA256, OU = 06 0000 MODEL_ID, OU = 05 000413a0 SW_SIZE, OU = 04 0031 OEM_ID, OU = 03 0000000000000002 DEBUG, OU = 02 009690E100310000 HW_ID, OU = 01 0000000200000003 SW_ID
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e0:23:bd:30:ab:e3:ca:72:64:ab:3a:5e:6e:89:
+                    72:19:40:46:09:a8:48:d5:02:5a:6c:ef:f8:ea:3f:
+                    24:ef:ea:88:4e:e4:b6:4a:85:4b:ef:e2:8d:ca:5e:
+                    a9:74:4a:f9:9b:56:05:e1:bd:1e:e1:9c:cb:d3:04:
+                    ee:87:97:90:f4:45:b2:96:f6:51:4a:8c:37:08:ce:
+                    36:18:d0:a9:b3:c4:af:a8:da:c8:58:6c:4d:bf:dd:
+                    ca:59:77:5d:57:52:f8:a7:99:01:32:5c:14:08:59:
+                    da:46:f0:61:7b:d0:25:ee:4c:73:8e:de:8a:e2:77:
+                    ed:9a:1a:44:f0:b7:2e:de:2c:3a:e7:3c:6b:89:26:
+                    c3:47:5e:a1:eb:3f:c1:df:5b:85:f7:a2:98:5c:0a:
+                    58:8a:58:2d:b0:37:b0:01:f1:8d:76:fa:3c:70:8b:
+                    4f:05:d5:fd:99:31:1d:2b:b1:54:88:89:52:07:a7:
+                    14:80:56:de:a6:39:53:66:4b:b7:65:a3:3f:cd:f7:
+                    1c:9c:bf:d7:bb:2b:ff:19:5b:73:5c:8d:1e:28:79:
+                    de:95:9a:2a:98:2c:71:31:a5:86:56:13:95:ab:08:
+                    a9:3a:d3:c5:5f:34:d3:64:a6:49:e5:e7:d9:6c:03:
+                    93:7d:e4:49:f6:42:bd:b3:45:b4:e5:d6:c4:fd:27:
+                    8b:bf
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:9F:B7:F2:21:D9:E9:89:81:16:DA:58:47:EC:9D:16:73:3B:C7:AA:B1
+                DirName:/CN=LGE ROOT CA/OU=General LGE rootca/O=LGE/L=GEUMCHEON/ST=SEOUL/C=KR
+                serial:05
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:URI:http://crl.geotrust.com/crls/qctattest.crl
+
+    Signature Algorithm: sha256WithRSAEncryption
+         4d:ee:94:9f:55:fe:5e:84:1b:97:ce:60:34:b3:34:c8:4a:2f:
+         4d:ca:3e:6b:4a:c6:5b:d2:8d:24:09:22:a7:47:75:76:0f:a6:
+         e6:ba:0d:47:06:aa:22:bb:9b:8e:57:8b:65:b9:ae:27:00:ff:
+         32:f8:03:61:21:db:31:1e:e0:c6:9d:a9:1d:1f:f3:2b:22:21:
+         7b:e9:b0:a0:f9:66:b7:14:a4:55:28:85:4f:4c:9a:66:c6:2f:
+         07:69:b4:33:75:45:b6:dd:19:0c:1e:60:93:16:12:cb:fe:02:
+         01:27:11:53:7f:ca:4a:c2:9e:05:12:1c:34:dc:66:2a:92:1f:
+         79:89:a1:44:94:99:63:d0:4b:68:e1:29:8d:13:ef:d7:2d:23:
+         b0:b5:cd:7e:58:e5:5d:2f:d5:72:93:1b:9e:7d:d4:99:ca:2b:
+         e5:c5:5a:75:be:09:fc:a5:4c:9a:82:53:ef:ba:89:34:1f:f9:
+         af:44:38:2a:28:57:2e:b8:54:9c:13:2d:7b:c3:7e:8a:41:99:
+         7a:c3:38:5a:d8:b6:a9:ba:63:5f:6e:04:f5:f1:7d:34:51:3f:
+         04:93:d7:69:9c:ff:69:e5:3a:ba:9c:8d:c2:c0:f1:f3:eb:5b:
+         77:e8:cd:20:48:34:e9:7f:4d:ee:25:99:9b:79:e3:25:4b:6b:
+         0e:9b:9f:99

@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = CN, ST = Beijing, L = Beijing, OU = Xiaomi, O = Xiaomi, CN = Xiaomi Attestation CA
+        Validity
+            Not Before: Sep  6 11:26:07 2016 GMT
+            Not After : Sep  1 11:26:07 2036 GMT
+        Subject: C = US, CN = SecTools Test User, L = San Diego, O = SecTools, ST = California, OU = 01 0000000000000003 SW_ID, OU = 02 009690E100000000 HW_ID, OU = 04 0000 OEM_ID, OU = 05 00000020 SW_SIZE, OU = 06 0000 MODEL_ID, OU = 07 0001 SHA256, OU = 03 0000000000000002 DEBUG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:8f:46:23:0b:98:d3:24:e4:29:23:94:1c:f7:
+                    fb:2a:89:d9:b9:c1:5d:29:e8:c6:24:53:2c:c9:bb:
+                    44:7c:ad:75:5b:37:43:d6:cd:42:a0:3e:f8:55:e2:
+                    98:c6:79:0b:59:f6:d6:40:b3:35:54:8d:ac:2a:d8:
+                    ab:93:98:56:46:e0:1a:f8:73:13:9a:1c:e9:34:04:
+                    2d:ba:70:5c:d0:e1:cd:ed:12:19:15:91:0b:81:39:
+                    00:ee:31:bb:17:a8:21:71:19:33:e4:00:34:e2:e3:
+                    06:17:82:6c:7f:51:0d:e9:e4:f7:64:83:da:60:4c:
+                    33:81:a2:6c:98:72:eb:2d:13:86:14:8f:8e:11:23:
+                    38:66:94:4b:d2:54:87:e6:3b:af:c2:86:d0:62:ff:
+                    ac:15:f0:9e:23:f0:57:5f:61:6b:de:12:6e:57:be:
+                    c3:31:90:3d:09:bf:3a:01:55:9e:38:2c:45:8a:fa:
+                    97:78:cf:84:1f:8b:f2:2c:12:1c:9b:75:39:4f:24:
+                    cc:6c:a2:59:b8:ae:02:59:a5:26:d2:ba:f6:49:d2:
+                    26:5a:87:89:4d:f0:25:70:95:4a:39:a9:ad:a6:ce:
+                    d1:06:e7:29:3a:29:f6:3c:47:80:6e:56:b9:31:70:
+                    fa:74:66:d6:13:c7:6b:00:f3:b3:f6:13:e0:dd:3e:
+                    05:0b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.qdst.com/crls/qctdevattest.crl
+
+            X509v3 Authority Key Identifier: 
+                keyid:0C:82:DD:0F:A4:2A:73:67:AC:DE:A1:A7:B0:45:54:30:D7:6F:C0:D4
+
+            X509v3 Basic Constraints: 
+                CA:FALSE, pathlen:0
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         b5:cd:11:5e:d0:10:29:ca:67:ce:d8:31:dc:5b:b6:a4:91:f2:
+         68:40:22:8e:86:8c:fa:70:af:f7:99:22:a3:a7:f5:f8:e7:54:
+         1d:7e:9b:b6:a9:d8:13:68:5a:2f:2f:47:d3:da:64:43:8a:d8:
+         ca:b7:7f:d6:f8:b8:3c:3c:d4:d9:f4:06:43:fe:c7:40:d7:b5:
+         19:1d:c5:11:fc:c5:c5:8f:6a:38:86:59:f5:1b:85:df:55:c2:
+         85:71:82:87:be:29:c7:5a:cf:96:07:16:bb:c4:2d:4f:7e:7e:
+         3c:ad:2b:d2:04:d2:8a:7c:a3:da:a2:f9:9c:87:b5:3e:e9:05:
+         53:70:6e:f4:1a:0a:99:72:cb:c9:c7:56:0b:42:c2:a8:71:90:
+         54:8a:bb:5a:fb:96:ce:b7:6e:ce:28:42:d9:3e:f5:93:25:55:
+         b5:72:f4:ea:0f:e6:0a:e7:29:ee:41:d0:62:05:cf:ba:00:e4:
+         af:a5:87:e7:8a:40:e8:d3:b3:8e:cf:a1:39:c7:e0:7b:d3:ea:
+         13:54:74:d6:a5:d2:ae:2c:e8:5e:57:98:3e:a0:0a:5a:6a:b4:
+         99:9a:fc:6d:5d:e9:87:24:6e:69:00:23:61:47:4b:ac:42:31:
+         28:4f:5c:8b:f5:15:8c:64:d6:68:3d:e1:b1:e0:89:14:20:fc:
+         92:34:c9:b6

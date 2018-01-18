@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, ST = California, CN = Generated Test Attestation CA, O = SecTools, L = San Diego
+        Validity
+            Not Before: Aug  5 14:44:12 2015 GMT
+            Not After : Jul 31 14:44:12 2035 GMT
+        Subject: C = US, CN = SecTools Test User, L = San Diego, O = SecTools, ST = California, OU = 01 0000000000000000 SW_ID, OU = 02 0000000000000000 HW_ID, OU = 04 0000 OEM_ID, OU = 05 00049050 SW_SIZE, OU = 06 0000 MODEL_ID, OU = 07 0001 SHA256, OU = 03 0000000000000002 DEBUG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d4:f2:0c:33:38:f0:70:35:84:bb:b0:01:c9:ff:
+                    77:67:15:b5:9c:0c:29:56:13:39:f6:56:92:44:81:
+                    38:94:fb:88:62:01:56:8c:5c:43:e0:ec:6a:b3:33:
+                    3d:08:9c:15:52:bc:00:6d:1e:42:e6:97:48:48:a5:
+                    83:d0:c9:3e:d2:9c:f6:27:0a:a3:70:e0:05:4d:46:
+                    0b:da:64:13:5b:d6:6c:f0:0f:c6:65:60:df:82:88:
+                    ca:76:f7:7f:fd:e8:cf:a0:0f:77:61:a5:fc:c5:f7:
+                    75:1e:23:44:18:2a:6e:aa:ce:8c:92:aa:0a:79:a8:
+                    02:05:3c:39:88:bc:44:13:01:ba:57:86:c8:b4:ae:
+                    a4:fe:3f:0b:d3:c1:90:a0:88:1a:77:4e:dd:b5:76:
+                    81:8e:6e:34:ac:9a:8a:e2:40:27:de:3f:b5:e7:d8:
+                    dc:fc:10:fa:52:c1:ef:2a:e6:c5:8a:64:06:c0:b7:
+                    f5:06:11:33:4f:ca:02:34:39:3f:78:4b:8d:d4:b1:
+                    62:98:dd:47:fb:9b:d2:24:82:32:a8:31:72:fc:f9:
+                    bf:c9:13:1b:3a:c5:2a:aa:82:71:e1:57:b2:8b:bd:
+                    05:3e:70:3b:46:1e:57:b9:64:b4:74:16:94:0f:42:
+                    b9:9e:4b:32:31:53:8e:7b:64:60:f7:09:47:07:9a:
+                    e1:cb
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.qdst.com/crls/qctdevattest.crl
+
+            X509v3 Authority Key Identifier: 
+                keyid:25:D7:8C:73:7C:9C:BB:E6:3E:7A:A2:F2:9D:E8:40:9D:8D:0A:90:D7
+
+            X509v3 Basic Constraints: 
+                CA:FALSE, pathlen:0
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment, Data Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         39:70:40:36:4d:69:00:78:2a:a7:47:75:9d:57:0d:76:7d:64:
+         06:7a:48:91:00:7f:b2:b8:ea:77:33:26:11:cf:b4:a8:dc:82:
+         18:46:05:d1:e4:61:fa:db:62:e5:9c:77:0d:aa:e6:f4:b5:9c:
+         61:88:58:4d:7a:5e:14:6d:cb:91:2f:ed:8a:6c:6e:94:25:00:
+         c0:27:c7:03:04:f5:50:06:66:59:c9:46:f4:2a:17:fc:e2:2e:
+         05:e3:e0:68:5f:62:49:b0:06:74:90:81:63:12:0c:9d:e3:43:
+         7d:0c:79:4b:f8:ca:a3:2c:8c:d8:06:3b:b9:0f:cf:92:92:0b:
+         83:52:52:37:c8:c0:d5:e2:1b:c0:6d:36:91:3a:50:36:be:d0:
+         2f:34:5d:9b:0d:0a:d1:14:02:ff:4e:4b:04:74:02:13:b4:33:
+         8f:b8:4e:7d:71:34:59:ea:1f:5a:51:91:aa:1d:70:e6:7d:b5:
+         0f:da:70:9d:43:6e:44:fc:d6:ca:e6:ba:95:7b:64:94:78:4e:
+         b6:4f:85:ac:f5:89:50:d7:b3:f3:e0:80:2b:6b:61:4c:5b:cf:
+         95:01:30:25:96:5e:07:93:8d:ac:e7:01:0c:e2:4a:53:0d:5c:
+         28:cb:2e:3c:c1:f6:b7:2b:55:30:66:77:bc:ee:a7:52:31:ad:
+         88:14:e8:e2
