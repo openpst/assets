@@ -1,0 +1,73 @@
+Image ID: 13
+Image Name: EHOSTDL
+File Size: 60524 bytes
+Image Src: 0x00000050
+Code Size: 54044
+Image Size: 60444 bytes
+Image Destination (RAM): 0x2A000050
+Signature Size: 256
+Signature Pointer (RAM): 0x2A00D36C
+Certificate Chain Size: 6144
+Certificate Chain Pointer (RAM): 0x2A00D46C
+OEM Root Cert Selection: 1
+OEM Number of Root Certs: 1
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            16:23:02:98:52:76:19:f1:00:00:0a:8a
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: OU=0000019D PI, O=Nokia, CN=Nokia Windows Bootloader Trustroot CA 000004CD KCI
+        Validity
+            Not Before: Nov  3 09:40:01 2013 GMT
+            Not After : Dec 16 06:31:19 2029 GMT
+        Subject: C=FI, OU=0000019D PI, O=8C042CBCE09E4064586DA2A5DFB81D3C52A3B99F91BD504735F9F774E113F4B3, CN=Bootloader attestation for user 629E9900, OU=01 0000000000000003 SW_ID, OU=02 007D10E100000000 HW_ID, OU=03 0000000000000000 DEBUG, OU=04 0000 OEM_ID, OU=05 0000D36C SW_SIZE, OU=06 0000 MODEL_ID, OU=07 0001 SHA256
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:0b:39:9b:33:b0:06:3e:a9:c1:41:a0:0a:ff:
+                    12:78:42:55:18:5d:e6:01:3c:a7:a8:b4:04:d9:24:
+                    cd:c2:b5:31:6f:22:c7:48:93:47:49:ec:93:57:7b:
+                    5c:ce:c8:b8:7e:a2:50:a8:e1:3e:5d:2f:bc:38:1c:
+                    a2:ad:9d:2c:77:e1:c5:bc:b3:be:bf:69:dd:3c:99:
+                    53:c7:7a:ef:0b:97:1b:b7:cb:62:fc:ea:1b:69:ae:
+                    dc:a1:93:c7:01:e2:31:a0:45:b1:52:76:b2:97:84:
+                    12:d3:ad:13:a5:13:2c:ee:0b:d3:70:e2:3d:48:d5:
+                    2f:d5:e6:ee:37:14:ee:1f:09:d7:3b:ed:01:86:5b:
+                    df:be:73:51:df:c7:8e:5e:20:a7:06:eb:35:b2:27:
+                    d4:c2:95:d3:5b:59:07:d2:1e:ce:37:99:b2:d0:a2:
+                    74:14:d9:16:d6:ea:b9:9e:72:c3:b5:50:1f:ca:18:
+                    dd:9a:0d:33:11:2c:16:0f:67:66:ed:42:35:62:b8:
+                    6a:86:c7:be:1a:f4:07:05:9b:8e:ae:b9:83:8a:11:
+                    4d:b5:65:be:84:de:e9:23:6c:98:bd:63:2a:e8:03:
+                    fe:8c:3c:f9:11:b6:2a:7e:e1:94:98:10:88:e3:9a:
+                    00:d7:b7:8a:88:f7:81:61:96:44:ba:df:8e:34:43:
+                    85:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C0:2D:5D:A6:29:F6:9A:2F:A5:17:37:75:FA:B1:F8:7A:50:71:42:8C
+            X509v3 Authority Key Identifier: 
+                keyid:9A:42:BA:9D:F8:E8:47:53:26:77:45:CB:52:2D:06:46:FC:B1:12:3E
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         61:bc:36:a7:aa:84:90:b3:a2:97:7f:e7:5a:8d:68:fc:cc:ee:
+         fb:4d:55:62:64:36:76:f3:ab:7b:98:40:f5:62:fd:ea:a6:13:
+         6f:87:cb:26:08:53:ae:82:2b:4b:40:a3:53:6e:cf:90:a9:78:
+         61:0f:4b:4a:31:31:b7:47:9c:7f:cd:52:9c:18:73:23:8b:7b:
+         99:a7:89:ae:76:41:2f:0d:70:95:6e:ef:b8:60:19:a7:be:cb:
+         5a:97:4e:7f:0e:dc:6b:6d:f5:e8:22:03:65:e6:d3:63:fc:c9:
+         11:6b:5a:55:7f:bf:3e:12:9d:1f:88:e1:71:35:60:90:5e:0a:
+         0e:a9:9c:36:0d:c9:78:56:51:1a:61:aa:74:bd:55:b6:a2:6f:
+         89:cd:a1:3c:2e:57:13:29:65:2e:1b:50:8d:61:dc:9d:1b:f6:
+         7f:52:80:96:2c:6c:f5:50:76:32:08:0a:24:dc:73:b8:df:71:
+         91:f2:ad:93:65:e2:54:49:4d:fc:de:b1:f7:0c:21:e3:7d:c6:
+         e8:01:21:f8:fe:24:dd:6e:35:51:37:ae:bb:8a:20:78:40:c3:
+         f1:fb:31:6e:81:3f:13:35:71:7e:ec:86:34:8a:1e:a2:2b:77:
+         9d:94:c0:4b:df:42:55:3d:3c:26:02:f0:7c:84:9c:73:ce:5d:
+         3f:76:66:12
